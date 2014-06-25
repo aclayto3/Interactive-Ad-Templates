@@ -1,0 +1,40 @@
+site-wrapper, #site-wrapper {
+  background:url(http://adimages.scrippsnetworks.com/iax/sherwin/2014/brandscape/sherwin_williams_brs_bg.jpg) no-repeat top;
+  min-width:1002px;
+} /* #site-wrapper - HGTV.com .site-wrapper - HGTVRemodels (Include both to use same creative on HGTv and Remodels)*/
+
+#hg-bd-wrap {
+  margin-top:0;
+}
+#pushdown_adtag .iax-inner{
+  height:175px;
+  width:994px;
+
+}
+#sherwin-williams-wrap {
+  width:994px;
+  height:175px;
+  margin:-3px;
+}
+body {
+  background:#bfdacf;
+}
+.super-lead {
+  margin:0px auto 14px;
+}
+
+#main-click {
+width: 994px;
+height: 175px;
+display: block;
+}
+
+#cs-container {
+width: 994px;
+height:175px;
+margin: 0 auto;
+background-color: transparent;
+position: relative;
+cursor:pointer;
+}
+
